@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Cursada SEMINARIO DE ACTUALIZACIÓN EN SISTEMAS COLABORATIVOS",
+      "color" : "#00806e",
+      "start": "2022-08-08",
+      "end": "2022-12-10"
+    },
+    {
+      "color":"#d76b6b",
+      "title": "1er Entrega seminario Colaborativos",
+      "start": "2022-08-21"
+    },
+    {
+      "color":"#d76b6b",
+      "title": "2da Entrega seminario Colaborativos",
+      "start": "2022-09-11T16:00:00-05:00"
+    }
+    ,
+    {
+      "color":"#d76b6b",  
+      "title": "3er Entrega seminario Colaborativos",
+      "start": "2022-10-16T10:00:00"
+    }
+    ,
+    {
+      "color":"#d76b6b",
+      "title": "4ta Entrega seminario Colaborativos",
+      "start": "2022-11-13T10:00:00"
+    }
+  ]
+  
